@@ -1,6 +1,6 @@
 
 
-print("Hello World")
+print("Hell World")
 
 
 print("A new line")
